@@ -1,0 +1,19 @@
+{
+  "name": "character-ab3",
+  "version": "1.0.0",
+  "description": "Anime Base 3.0 standalone character plugin",
+  "main": "src/index.js",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.js",
+    "./character": "./src/character.js",
+    "./manifest": "./src/manifest.json"
+  },
+  "files": [
+    "src/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kilyakus/character-ab3.git"
+  }
+}
