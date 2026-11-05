@@ -1,1 +1,5 @@
-# character-animebase3
+# Character AB3
+
+Рабочий репозиторий для материалов **Character AB3** на базе **Anime Base 3.0** от Riceballer3D. Структура отделяет сторонние исходники, оригинальные материалы проекта, превью и вспомогательные инструменты.
+
+Официальная страница ресурса: <https://riceballer3d.gumroad.com/l/anime3>
