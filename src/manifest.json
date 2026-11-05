@@ -1,0 +1,24 @@
+{
+  "kind": "character",
+  "id": "animebase-3",
+  "name": "Anime Base 3.0 · standalone plugin",
+  "entry": "character.js",
+  "default": false,
+  "order": 2,
+  "builtInAlias": "animebase",
+  "api": {
+    "entry": "index.js",
+    "engineAgnostic": true,
+    "requires": ["three"],
+    "exports": [
+      "createAnimeBase3",
+      "buildAnimeBase3Model",
+      "ANIMEBASE3_BONES",
+      "ANIMEBASE3_BONE_MAP",
+      "ANIMEBASE3_BONE_PARTS",
+      "buildAnimeBase3Bindings",
+      "animeBasePaletteFromColor",
+      "resolveMaterialPalette"
+    ]
+  }
+}
