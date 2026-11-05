@@ -10,7 +10,8 @@
     "./manifest": "./src/manifest.json"
   },
   "files": [
-    "src/"
+    "src/",
+    "reference/"
   ],
   "repository": {
     "type": "git",
